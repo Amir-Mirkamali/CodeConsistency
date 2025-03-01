@@ -80,6 +80,7 @@ const
 onClick={() => toggleDrawer(false)}
 ```
 ۹. به هیچ عنوان ternary operator تو در تو استفاده نمی کنیم.
+
 ۱۰. محتویات یک Tag یا کامپوننت را در jsx، حتما در یک خط جدید بیاورید.
 ```javascript
               <Typography  
